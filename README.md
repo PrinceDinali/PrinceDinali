@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceDinali
-- 👀 I’m interested in Virtual and Augmented Reality
-- 🌱 I’m currently learning C# and studying Mining Engineering
-- 💞️ I’m looking to collaborate on a project that I have thought of
+- 👀 I’m interested in IOS app development and tech in general
+- 🌱 I’m currently learning Python and SwiftUI
+- 💞️ I’m looking to collaborate on a project that I have thought of and grow an empire
 - 📫 How to reach me: dinali.assylbek.2003@gmail.com
 
 
