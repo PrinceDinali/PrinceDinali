@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceDinali
-- 👀 I’m interested in IOS app development and tech in general
-- 🌱 I’m currently learning Python and SwiftUI
+- 👀 I’m interested in Mobile app development and tech in general
+- 🌱 I’m currently learning Python, Flutter, and SwiftUI
 - 💞️ I’m looking to collaborate on a project that I have thought of and grow an empire
 - 📫 How to reach me: dinali.assylbek.2003@gmail.com
 
